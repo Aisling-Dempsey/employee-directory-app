@@ -1,1 +1,12 @@
+
+# IntelliJ project files
+*.iml
+out
+gen
+.idea
+
+# Virtual env
 env
+
+#secrets
+*secrets*
